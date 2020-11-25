@@ -1,44 +1,44 @@
 [[Perl]]
 arch = "i686"
-git-tree-sha1 = "b96ddbf8bb783374a633ed0b193ab8f8aa2477fe"
+git-tree-sha1 = "625c500ebd9e885e870675d77ea6cf41c14d6bdd"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "9f43143efaf0583bae902f579d64d25e3f5157a3ba2bf153540effba5abaabb4"
-    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+0/Perl.v5.30.3.i686-linux-gnu.tar.gz"
+    sha256 = "13ca9e753c01de18c57c0c562a7dd07d1182f5c119f3b98d1d3ad0f29781d7a3"
+    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+2/Perl.v5.30.3.i686-linux-gnu.tar.gz"
 [[Perl]]
 arch = "i686"
-git-tree-sha1 = "db3d0dd8c7c0429c309078cc5b7383d10bbccd65"
+git-tree-sha1 = "100c5ac60a41f8b0e2b9491956f0427b47bafa85"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "3884f2c7a373e169c94a6c604f484f54d71f97091826e7861b9d07dee99dd50f"
-    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+0/Perl.v5.30.3.i686-linux-musl.tar.gz"
+    sha256 = "c93b2aa2453c47db10f7909d268c2db7969d7ccea9420af65555ec3618e4ddea"
+    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+2/Perl.v5.30.3.i686-linux-musl.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "a4b76501840161e39123d820feccd225dbf8183a"
+git-tree-sha1 = "e82ae42d889d53a74a9d2c5c395be41e55a7ee71"
 os = "macos"
 
     [[Perl.download]]
-    sha256 = "123a6bb9dc7bc8889184dfa2342f78eb61ffad188c9f997469a1ca2cab2025c0"
-    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+0/Perl.v5.30.3.x86_64-apple-darwin14.tar.gz"
+    sha256 = "59414e0802ffcd83f004474fa98644fc2835e5237b77daaa06798c8d71e89e82"
+    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+2/Perl.v5.30.3.x86_64-apple-darwin.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "e82ed954352870a31e81168ee5baaa942432b2c3"
+git-tree-sha1 = "06ceadfe6189348f596024106c6a86d1d0ae2273"
 libc = "glibc"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "0413f7ca7e11fb8bfb6c3d68d2afb8b43d1bdf3b174187da794af93a1da1aab5"
-    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+0/Perl.v5.30.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "437627113dcc8dde1ec8f9687b03a6605da9287b475c1f640d918779e493964d"
+    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+2/Perl.v5.30.3.x86_64-linux-gnu.tar.gz"
 [[Perl]]
 arch = "x86_64"
-git-tree-sha1 = "d5551da3739ab5b7b89df62153cd88b38940a322"
+git-tree-sha1 = "1313d1134e818eb002e797ad052b3667bdb73ddc"
 libc = "musl"
 os = "linux"
 
     [[Perl.download]]
-    sha256 = "546a3bc32f34c76ed8211c3bb0659d0dc0410a936fbc515d876f48ef6964eda5"
-    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+0/Perl.v5.30.3.x86_64-linux-musl.tar.gz"
+    sha256 = "ac66ece9319d46dc5e61fe8b6951fbb3aaf2cbfc91588bc95a1aa0dd153ef14e"
+    url = "https://github.com/JuliaBinaryWrappers/Perl_jll.jl/releases/download/Perl-v5.30.3+2/Perl.v5.30.3.x86_64-linux-musl.tar.gz"
